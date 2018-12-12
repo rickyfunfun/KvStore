@@ -1,8 +1,8 @@
 name: kv_store
 description: kv_store is a key-value storeage plug-in used sqlite. It can be used for keeping user token/response caches/preferences.
-version: 0.0.1
-author: Panda
-homepage:
+version: 1.0.0
+author: 万能之主熊猫君 <151266405@qq.com>
+homepage: https://github.com/rickyfunfun/KvStore
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
@@ -13,6 +13,7 @@ dependencies:
 
   sqflite: ^0.13.0
   sprintf: ^4.0.0
+  path: ^1.6.2
 
   
 

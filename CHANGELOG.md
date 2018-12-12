@@ -1,3 +1,4 @@
-## 0.0.1
+## 1.0.0
 
-* TODO: Describe initial release.
+* 完成基本的功能，并且有格式化的日志输出。
+* 完成 example。
