@@ -1,4 +1,10 @@
+## 1.0.1
+
+* Add instructions and example in README.md
+* Update sqflite: ^1.1.0
+
 ## 1.0.0
 
-* 完成基本的功能，并且有格式化的日志输出。
-* 完成 example。
+* Formated logs output
+* Examples
+* Basic functions

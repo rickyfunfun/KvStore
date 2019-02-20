@@ -23,7 +23,8 @@ const String delete_items_sql = 'DELETE from %s where id in (%s)';
 const String delete_items_with_prefix_sql = 'DELETE from %s where id like ?';
 const String drop_table_sql = 'DROP TABLE "%s"';
 
-const String default_table = 't_preferences';
+const String default_table = 't_default';
+const String preferences_table = 't_preferences';
 
 const bool _kReleaseMode = const bool.fromEnvironment("dart.vm.product");
 

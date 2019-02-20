@@ -1,7 +1,7 @@
 name: kv_store
 description: kv_store is a key-value storeage plug-in used sqlite. It can be used for keeping user token/response caches/preferences.
-version: 1.0.0
-author: 万能之主熊猫君 <151266405@qq.com>
+version: 1.0.1
+author: 万能之主熊猫君 <panda@cvbro.io>
 homepage: https://github.com/rickyfunfun/KvStore
 
 environment:
@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  sqflite: ^0.13.0
+  sqflite: ^1.1.0
   sprintf: ^4.0.0
   path: ^1.6.2
 
